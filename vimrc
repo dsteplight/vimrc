@@ -349,6 +349,9 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
+" --- vim-showspaces
+let b:showSpaces = 1
+
 " --- vim-airline
 " Enable the list of buffers
 let g:airline#extensions#tabline#enabled = 1
