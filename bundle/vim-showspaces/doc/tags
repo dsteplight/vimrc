@@ -1,0 +1,13 @@
+:ToggleShowSpaces	showspaces.txt	/*:ToggleShowSpaces*
+ShowSpaces	showspaces.txt	/*ShowSpaces*
+ShowSpacesCommands	showspaces.txt	/*ShowSpacesCommands*
+ShowSpacesContents	showspaces.txt	/*ShowSpacesContents*
+ShowSpacesFAQ	showspaces.txt	/*ShowSpacesFAQ*
+ShowSpacesInstallation	showspaces.txt	/*ShowSpacesInstallation*
+ShowSpacesIntroduction	showspaces.txt	/*ShowSpacesIntroduction*
+ShowSpacesLicense	showspaces.txt	/*ShowSpacesLicense*
+ShowSpacesOptionsAndCustomisation	showspaces.txt	/*ShowSpacesOptionsAndCustomisation*
+ShowSpacesUsage	showspaces.txt	/*ShowSpacesUsage*
+b:showSpaces	showspaces.txt	/*b:showSpaces*
+b:showSpacesConceal	showspaces.txt	/*b:showSpacesConceal*
+showspaces.txt	showspaces.txt	/*showspaces.txt*
