@@ -1,0 +1,7 @@
+g:http_client_bind_hotkey	http-client.txt	/*g:http_client_bind_hotkey*
+g:http_client_json_ft	http-client.txt	/*g:http_client_json_ft*
+http-client	http-client.txt	/*http-client*
+http-client-configuration	http-client.txt	/*http-client-configuration*
+http-client-installation	http-client.txt	/*http-client-installation*
+http-client-introduction	http-client.txt	/*http-client-introduction*
+http-client-use	http-client.txt	/*http-client-use*
