@@ -1,8 +1,8 @@
-" vgod's vimrc
-" Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
-" Fork me on GITHUB  https://github.com/vgod/vimrc
+" dsteplight's vimrc
+" Tsung-Hsiang (Sean) Chang <dsteplight@dsteplight.tw>
+" Fork me on GITHUB  https://github.com/dsteplight/vimrc
 
-" read https://github.com/vgod/vimrc/blob/master/README.md for more info
+" read https://github.com/dsteplight/vimrc/blob/master/README.md for more info
 
 
 " For pathogen.vim: auto load all plugins in .vim/bundle
@@ -47,7 +47,7 @@ if has("gui_running")	" GUI color and font settings
   highlight CursorLine          guibg=#003853 ctermbg=24  gui=none cterm=none
 else
 " terminal color settings
-  colors vgod
+  colors dsteplight
 endif
 
 set clipboard=unnamed	" yank to the system register (*) by default
